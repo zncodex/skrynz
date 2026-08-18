@@ -33,7 +33,6 @@
 
 </div>
 
----
 
 **skrynz** puts your Android phone on the Windows desktop and hands you the mouse and keyboard. Over USB or Wi-Fi, at 60 fps, decoded on the GPU. It records to MP4, takes screenshots at the phone's own resolution, moves files both ways, shares the clipboard, plays the phone's audio through your speakers, and can open a single Android app as an ordinary Windows window.
 
