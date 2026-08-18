@@ -2,7 +2,6 @@
 
 <img src="assets/skrynz.png" width="180" alt="skrynz logo: Android screen mirroring for Windows" />
 
-# skrynz
 
 ### Android screen mirroring and control for Windows, in a single 9.2 MB file.
 
